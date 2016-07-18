@@ -4,7 +4,9 @@ This custom field enables (very basic) previews for images in the sidebar.
 
 ## Installation
 
-Put the `previewImagesFromSidebar` folder in `/site/fields`.
+Clone or download the contents of this repo to `/site/fields/previewImagesFromSidebar`.
+
+Or, install it as a git submodule: `git submodule add https://github.com/dervondenbergen/Kirby-PreviewSidebarImages-Field site/fields/previewImagesFromSidebar`
 
 ## Usage
 
